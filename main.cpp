@@ -12,9 +12,9 @@ int main()
 
    system("cls");
 
-   read(symb);
+   read();
 
-   get_bin(symb,SIZE);
+   get_bin();
 
    delete [] symb;
 
